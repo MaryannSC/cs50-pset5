@@ -1,0 +1,16 @@
+
+MISSPELLED WORDS
+
+s
+jumped
+Bazinga
+
+WORDS MISSPELLED:     3
+WORDS IN DICTIONARY:  30
+WORDS IN TEXT:        11
+TIME IN load:         0.00
+TIME IN check:        0.00
+TIME IN size:         0.00
+TIME IN unload:       0.00
+TIME IN TOTAL:        0.00
+
